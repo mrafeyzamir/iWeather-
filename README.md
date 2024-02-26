@@ -1,3 +1,5 @@
+# iWeather App
+A simple weather application using react js where user can serch weather of diffrent cities by  city name or cordinates and also search weather of their current location.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +70,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Front End Development
+front end development using Bootstrap :[https://getbootstrap.com/]
+
+### `Weather Api` configuration
+Api can get from : [https://openweathermap.org/]
+
+### `API key`
+claim your api key from open weathermap.org and paste it in the URL of API.
+ 
